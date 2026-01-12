@@ -1,13 +1,16 @@
 import React, { createContext, useState } from 'react'
 
+import WhatsApp4 from "../assets/WhatsApp4.jpeg"
+import WhatsApp5 from "../assets/WhatsApp5.jpeg"
+import WhatsApp6 from "../assets/WhatsApp6.jpeg"
+import WhatsApp7 from "../assets/WhatsApp7.jpeg"
+import WhatsApp8 from "../assets/WhatsApp8.jpeg"
+import WhatsApp9 from "../assets/WhatsApp9.jpeg"
+import WhatsApp10 from "../assets/WhatsApp10.jpeg"
+import WhatsApp11 from "../assets/WhatsApp11.jpeg"
+import imageProxy8 from "../assets/imageProxy8.jpg"
 import imageProxy2 from "../assets/imageProxy2.jpg"
 import imageProxy7 from "../assets/imageProxy7.jpg"
-import imageProxy8 from "../assets/imageProxy8.jpg"
-import imageProxy3 from "../assets/imageProxy3.jpg"
-import imageProxy4 from "../assets/imageProxy4.jpg"
-import imageProxy5 from "../assets/imageProxy5.jpg"
-import imageProxy6 from "../assets/imageProxy6.jpg"
-
 
 export const osrData=createContext()
 const ContexApi = (props) => {
@@ -41,24 +44,14 @@ const [first, setFirst] = useState([
 ])
 
 const [second, setSecond] = useState([
-  {img:imageProxy2,
-    name:"Alec Cutter",
-  },
-  {img:imageProxy3,
-    name:"Jean Kleisz",
-  },
-  {img:imageProxy4,
-    name:'Annie Spratt',
-  },
-  {img:imageProxy5,
-    name:"Tim Swaan",
-  },
-  {img:imageProxy6,
-    name:"Steve Richey",
-  },
-  {img:imageProxy3,
-    name:"Anthony Delanoix",
-  },
+  {img:WhatsApp4},
+  {img:WhatsApp5},
+  {img:WhatsApp6},
+  {img:WhatsApp7},
+  {img:WhatsApp8},
+  {img:WhatsApp9},
+  {img:WhatsApp10},
+  {img:WhatsApp11},
 ])
 
   return (
