@@ -6,7 +6,7 @@ import { Facebook, Youtube, Menu, X } from "lucide-react"; // Added Menu & X ico
 
 import { FaWhatsapp } from "react-icons/fa";
 
-import logo from "../assets/Osrtrips_logo.png";
+import logo from "../assets/Osrtrips_Logo.png";
 
 import whatsappimg from "../assets/whatsappimg.jpeg";
 
