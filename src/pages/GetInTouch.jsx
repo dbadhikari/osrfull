@@ -79,7 +79,7 @@ const GetInTouch = () => {
         <div className='flex-1 flex flex-col gap-4 text-center lg:text-left'>
           <h1 className='text-2xl sm:text-3xl md:text-4xl'>Find Us</h1>
           <h2 className='text-lg sm:text-xl md:text-2xl'>Location</h2>
-          <p>Kathmandu, Nepal</p>
+          <p>Bishalnagar-5, Kathmandu, Nepal</p>
           <h2 className='text-lg sm:text-xl md:text-2xl mt-4'>Contact</h2>
           <p>Tel: +977-9816940114</p>
           <p>Email: osrtrips@gmail.com</p>
@@ -89,11 +89,7 @@ const GetInTouch = () => {
         </div>
 
         <div className='flex-1 h-64 sm:h-80 md:h-96 w-full rounded-lg overflow-hidden shadow-lg'>
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.3846153078416!2d85.32409427552341!3d27.705408725576852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19a77f1ab301%3A0xb213d09ebce4b3da!2sDillibazar!5e0!3m2!1sen!2snp!4v1768202440662!5m2!1sen!2snp"
-            className="w-full h-full border-0"
-            loading="lazy"
-          ></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.7721996577025!2d85.33594587212711!3d27.721433413020165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb196c4906da23%3A0xd802818622745323!2sP8CQ%2BG53%2C%20Pipal%20Bot%20Marg%2C%20Kathmandu%2C%20Bagmati%20Province%2044616!5e0!3m2!1sen!2snp!4v1790331695312!5m2!1sen!2snp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
         </div>
       </section>
 
