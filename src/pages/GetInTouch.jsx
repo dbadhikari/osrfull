@@ -89,7 +89,15 @@ const GetInTouch = () => {
         </div>
 
         <div className='flex-1 h-64 sm:h-80 md:h-96 w-full rounded-lg overflow-hidden shadow-lg'>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.7721996577025!2d85.33594587212711!3d27.721433413020165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb196c4906da23%3A0xd802818622745323!2sP8CQ%2BG53%2C%20Pipal%20Bot%20Marg%2C%20Kathmandu%2C%20Bagmati%20Province%2044616!5e0!3m2!1sen!2snp!4v1790331695312!5m2!1sen!2snp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.7721996577025!2d85.33594587212711!3d27.721433413020165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb196c4906da23%3A0xd802818622745323!2sP8CQ%2BG53%2C%20Pipal%20Bot%20Marg%2C%20Kathmandu%2C%20Bagmati%20Province%2044616!5e0!3m2!1sen!2snp!4v1790331695312!5m2!1sen!2snp"
+  className="w-full h-full"
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="strict-origin-when-cross-origin"
+/>
+
         </div>
       </section>
 
