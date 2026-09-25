@@ -1,7 +1,7 @@
 import React from 'react';
 import { Facebook, Youtube } from "lucide-react";
 import { FaWhatsapp } from "react-icons/fa";
-import logo from "../assets/Osrtrips_logo.png";
+import logo from "../assets/Osrtrips_Logo.png";
 
 const Footer = () => {
   return (
